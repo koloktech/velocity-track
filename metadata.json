@@ -1,0 +1,5 @@
+{
+  "name": "VelocityTrack",
+  "description": "A street-racing inspired fuel consumption tracker with high-performance visualization.",
+  "requestFramePermissions": []
+}
